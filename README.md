@@ -1,4 +1,4 @@
-[![MasterHead]([https://res.cloudinary.com/qacode/image/upload/v1674914834/journal-app/alqdsu9qodluzgbhiu8g.png])](https://amsoft.dev)
+[![MasterHead](https://res.cloudinary.com/qacode/image/upload/v1674914834/journal-app/alqdsu9qodluzgbhiu8g.png)](https://amsoft.dev)
 <h1 align="center">Hi 👋, I'm Amador Quispe</h1>
 <h3 align="center">A passionate backend y frontend developer from Perú</h3>
 <img align="right" alt="Coding" width="400"
