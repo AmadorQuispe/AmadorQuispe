@@ -1,4 +1,4 @@
-[![MasterHead]([https://www.canva.com/design/DAFfcjt6xXo/ndVI0FiNe0kjv2NjCVOgfQ/view](https://www.canva.com/design/DAFfcjt6xXo/Fy9rFk3xfb3jXFOGtXolEw/edit?utm_content=DAFfcjt6xXo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))](https://amsoft.dev)
+[![MasterHead]([https://res.cloudinary.com/qacode/image/upload/v1674914834/journal-app/alqdsu9qodluzgbhiu8g.png])](https://amsoft.dev)
 <h1 align="center">Hi 👋, I'm Amador Quispe</h1>
 <h3 align="center">A passionate backend y frontend developer from Perú</h3>
 <img align="right" alt="Coding" width="400"
