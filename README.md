@@ -1,13 +1,10 @@
 [![MasterHead](https://res.cloudinary.com/qacode/image/upload/v1674914834/journal-app/alqdsu9qodluzgbhiu8g.png)](https://amsoft.dev)
 <h1 align="center">Hi 👋, I'm Amador Quispe</h1>
 <h3 align="center">A passionate backend y frontend developer from Perú</h3>
-<!--<img align="right" alt="Coding" width="400"
-    src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">-->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img
-        src="https://amsoft.dev/ghpvc/?username=amadorquispe&label=Profile%20views&color=0e75b6&style=flat"
-        alt="AmadorQuispe" /> </p>
+<p align="left"> <a href="https://amsoft.dev" target="blank">Amador Quispe </a> </p>
 
 <p align="left"> <a href="https://twitter.com/aquispeh" target="blank"><img
             src="https://img.shields.io/twitter/follow/aquispeh?logo=twitter&style=for-the-badge" alt="aquispeh" /></a>
