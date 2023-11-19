@@ -100,9 +100,6 @@
     
 </p>
 
-[![Sarthak's GitHub activity
-graph](https://activity-graph.herokuapp.com/graph?username=amadorquispe&&theme=xcode)](https://github.com/amadorquispe)
-
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=amadorquispe&show_icons=true&locale=en&layout=compact&theme=tokyonight"
         alt="amadorquispe" /></p>
