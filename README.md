@@ -39,9 +39,9 @@
 
   **Languages**:
 
-  ![Java](https://img.shields.io/badge/java%20-%232370ED.svg?style=for-the-badge&logo=java&logoColor=white)
-  ![PHP](https://img.shields.io/badge/php%20-%2300599C.svg?style=for-the-badge&logo=php%2B%2B&logoColor=white)
-  ![Go](https://img.shields.io/badge/go%20-%2300599C.svg?style=for-the-badge&logo=go%2B%2B&logoColor=white)
+  ![Java](https://img.shields.io/badge/java%20-437291.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![PHP](https://img.shields.io/badge/php%20-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
+  ![Go](https://img.shields.io/badge/go%20-00ADD8.svg?style=for-the-badge&logo=GO&logoColor=white)
   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
   <br>
