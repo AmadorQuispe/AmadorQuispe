@@ -22,8 +22,6 @@
 
 - 📫 How to reach me **aquispe.dev@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
-
 - 📌 Personal website [amsoft.dev](https://amsoft.dev)
 
 
@@ -146,17 +144,6 @@
 <br>
 <br>
 <br>
-
-
-<br>
-<br>
-<br>
-<br>
-
 ---
 
-<br>
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-Last Edited on: 09/11/2022
