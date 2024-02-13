@@ -86,7 +86,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<div align="center">
+<div align="start">
 
   <a href="https://github.com/AmadorQuispe/">
     <img
@@ -100,10 +100,6 @@
       width="375" alt="AmadorQuispe" />
 
   </a>
-</div>
-<div align="center">
-
-
 </div>
 <br>
 
