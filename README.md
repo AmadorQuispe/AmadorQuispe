@@ -1,5 +1,5 @@
 
-[![MasterHead](https://res.cloudinary.com/qacode/image/upload/v1674914834/journal-app/alqdsu9qodluzgbhiu8g.png)](https://amsoft.dev)
+[![MasterHead]([https://res.cloudinary.com/qacode/image/upload/v1674914834/journal-app/alqdsu9qodluzgbhiu8g.png](https://media.licdn.com/dms/image/v2/D4E16AQG7MaCAKRy2Xg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1701123001166?e=1749081600&v=beta&t=lDhFR1D5FmUjE_tBmhAqBMYnu56x0LzRQkwh5LJAaoU))](https://amsoft.dev)
 
 
 <br>
